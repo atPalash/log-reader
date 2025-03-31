@@ -49,9 +49,10 @@ if not os.path.exists(persistent_directory):
 
     # Create embeddings
     print("\n--- Creating embeddings ---")
-    embeddings = OpenAIEmbeddings(
-        model="text-embedding-3-small"
-    )  # Update to a valid embedding model if needed
+    # embeddings = OpenAIEmbeddings(
+    #     model="text-embedding-3-small"
+    # )  # Update to a valid embedding model if needed
+    embeddings = OllamaEmbeddings(model="llama3.2")
     print("\n--- Finished creating embeddings ---")
 
     # Create the vector store and persist it
