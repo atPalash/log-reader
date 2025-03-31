@@ -1,0 +1,88 @@
+2025-03-31T14:10:41.117396+00:00 GE0040973104B0 systemd[1]: Reloading Nginx Server...
+2025-03-31T14:10:41.176744+00:00 GE0040973104B0 systemd[1]: Reloaded Nginx Server.
+2025-03-31T14:10:41.197292+00:00 GE0040973104B0 esp-qt[849]: <NFO>|ImpResp Carrier disabled is sent to source.|ImpRParSS.cpp:143|ImpRThread
+2025-03-31T14:10:41.197676+00:00 GE0040973104B0 esp-qt[849]: <NFO>|UIC sw version is compatible|LinuxUsbUicDriver.cpp:761|WorkThread
+2025-03-31T14:10:41.198225+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Case period 1743430020...1743430199|TrendReceiver.cpp:907|PatientCaseMainThread
+2025-03-31T14:10:41.198478+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Dequeuing req|TrendUploadMachine.cpp:201|PatientCaseMainThread
+2025-03-31T14:10:41.198721+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Alarm engine started|AlarmsEngine.cpp:166|AlarmEng
+2025-03-31T14:10:41.200078+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Ch:1 SpO2 technical alarms' precondition state: met |SpO2ValidityTruthExp.cpp:31|AlarmEng
+2025-03-31T14:10:41.200406+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Ch:2 SpO2 technical alarms' precondition state: not met |SpO2ValidityTruthExp.cpp:31|AlarmEng
+2025-03-31T14:10:41.200756+00:00 GE0040973104B0 esp-qt[849]: <NFO>|ECG learning - start|ArrhythmiaStatus.cpp:358|EcgThread
+2025-03-31T14:10:41.201023+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Call Service: Text(s) missing|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.201275+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Connecting Measurement|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.202920+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Loading from CS ONE|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.203181+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Monitor restarted. Check patient.|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.203493+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+All monitors disconnected|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.203781+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Not for clinical use|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.204956+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Service CS ONE ECG Analog Out|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.205260+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TS+Service CS ONE IP Analog Out|AlarmLog.cpp:661|AlarmEng
+2025-03-31T14:10:41.205580+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Call Service: Text(s) missing|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.209633+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Connecting Measurement|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.210016+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Loading from CS ONE|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.210280+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ma+Monitor restarted. Check patient.|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.217849+00:00 GE0040973104B0 esp-qt[849]: <ERR>|Condition: "publisher->publish<MsgTypeT>(entity, std::move(msg))" failed. |EventChiasmaConnector.cpp:381|GUI
+2025-03-31T14:10:41.218287+00:00 GE0040973104B0 esp-qt[849]: <ALR>|La+All monitors disconnected|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.218562+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Not for clinical use|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.218809+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Service CS ONE ECG Analog Out|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.219137+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+Service CS ONE IP Analog Out|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.222500+00:00 GE0040973104B0 esp-qt[849]: <NFO>|led:yellow,100%,1000/1000 ms|AlarmLightLogger.cpp:36|AlarmEng
+2025-03-31T14:10:41.227786+00:00 GE0040973104B0 esp-qt[849]: <NFO>|alarm sound: play looped MED_ALARM_IEC, volume 7|AlarmSoundLogger.cpp:65|AlarmEng
+2025-03-31T14:10:41.232919+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TA: clear from day 31, 14:07:00 to day 31, 14:09:59|TrendArchive.cpp:474|TrendArchive
+2025-03-31T14:10:41.252677+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Transferring trends minute 29057167:0, end is at 29057169:59|TrendReceiver.cpp:421|TrendArchive
+2025-03-31T14:10:41.253062+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Transferring trends minute 29057168:0, end is at 29057169:59|TrendReceiver.cpp:421|TrendArchive
+2025-03-31T14:10:41.253485+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Trend download complete|SlowDataAcqConsumer.cpp:126|TrendArchive
+2025-03-31T14:10:41.253855+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TA: DATA loaded.|TrendArchive.cpp:209|TrendArchive
+2025-03-31T14:10:41.269193+00:00 GE0040973104B0 esp-qt[849]: <NFO>|Loading from acquisition completed|PatientCaseActions.cpp:435|PatientCaseMainThread
+2025-03-31T14:10:41.276914+00:00 GE0040973104B0 esp-qt[849]: <ERR>|HRSourceId trend strip value not found for: 524544|connectTrendToChiasma.cpp:87|TrendArchive
+2025-03-31T14:10:41.277665+00:00 GE0040973104B0 esp-qt[849]: <ERR>|HRSourceId trend strip value not found for: 524544|connectTrendToChiasma.cpp:87|TrendArchive
+2025-03-31T14:10:41.279838+00:00 GE0040973104B0 esp-qt[849]: <ERR>|HRSourceId trend strip value not found for: 524544|connectTrendToChiasma.cpp:87|TrendArchive
+2025-03-31T14:10:41.284163+00:00 GE0040973104B0 esp-qt[849]: <NFO>|TA: FLUSH done.|TrendArchive.cpp:185|TrendArchive
+2025-03-31T14:10:41.321318+00:00 GE0040973104B0 ppd-proxy-setup[1050]: Enabled on 192.168.250.137:8081
+2025-03-31T14:10:41.326164+00:00 GE0040973104B0 esp-qt[849]: <NFO>|acqConnectionHandled|BrokerHostController.cpp:133|GUI
+2025-03-31T14:10:41.327152+00:00 GE0040973104B0 esp-qt[849]: <NFO>|isAcqConnected = Connected|LastConnectedAcquisitionDeviceStatePublisher.cpp:50|GUI
+2025-03-31T14:10:41.344086+00:00 GE0040973104B0 esp-qt[849]: <ALR>|Ia+NIBP alarm limits changed|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.345956+00:00 GE0040973104B0 esp-qt[849]: <ALR>|_i+NIBP alarm limits changed|AlarmLog.cpp:666|AlarmEng
+2025-03-31T14:10:41.424871+00:00 GE0040973104B0 esp-qt[849]: <WRN>|No samples are read! 20 invalid samples are sent: EWaveTypes=1, channel=1, sample rate=240|WaveformDownloader.cpp:85|unity
+2025-03-31T14:10:41.425236+00:00 GE0040973104B0 esp-qt[849]: <WRN>|No samples are read! 20 invalid samples are sent: EWaveTypes=1, channel=2, sample rate=240|WaveformDownloader.cpp:85|unity
+2025-03-31T16:18:40.126864+00:00 GE0040973104B0 script-server[23139]: script started: /home/script-server/scripts/livelogs/runme.sh 10.62.24.184 192.168.121.68 22 Bx50 or CS1000(L) Only Equinox
+2025-03-31T16:18:51.923050+00:00 GE0040973104B0 esp-qt[849]: <USR>|ParameterWindow tapped <PARAM_WIN_NMT> NMT|EDSLogging.qml:35|Main
+2025-03-31T16:18:51.934449+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: open: Nmt [NMT_SETTINGS]  depth: 1  screenIdx: 0|MenuMgr.qml:339|Main
+2025-03-31T16:18:55.238043+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <NMT_STARTUP> Start-up NMT|EDSLogging.qml:35|Main
+2025-03-31T16:18:55.239132+00:00 GE0040973104B0 esp-qt[849]: <WRN>|Command is not available: StartUp, {availableM:[StartUp],commandM:StartUp}|QCommand.cpp:65|Main
+2025-03-31T16:18:57.219524+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <NMT_STARTUP> Start-up NMT|EDSLogging.qml:35|Main
+2025-03-31T16:18:57.219958+00:00 GE0040973104B0 esp-qt[849]: <WRN>|Command is not available: StartUp, {availableM:[StartUp],commandM:StartUp}|QCommand.cpp:65|Main
+2025-03-31T16:18:59.089034+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <NMT_STOP_CONTINUE> Stop|EDSLogging.qml:35|Main
+2025-03-31T16:19:02.582274+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <NMT_ENABLE_STARTUP> Enable start-up|EDSLogging.qml:35|Main
+2025-03-31T16:19:04.897654+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <NMT_STARTUP> Start-up NMT|EDSLogging.qml:35|Main
+2025-03-31T16:19:24.816001+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSButtonBase clicked <CLOSE_BUTTON> |EDSLogging.qml:35|Main
+2025-03-31T16:19:24.819192+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: close: Nmt  depth: 1  screenIdx: 0|MenuMgr.qml:440|Main
+2025-03-31T16:19:27.980555+00:00 GE0040973104B0 esp-qt[849]: <USR>|ParameterWindow tapped <PARAM_WIN_SPO2_1> SpO2|EDSLogging.qml:35|Main
+2025-03-31T16:19:27.986284+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: open: Spo2 [SPO2_TAB,SPO2_SETUP]  depth: 1  screenIdx: 0|MenuMgr.qml:339|Main
+2025-03-31T16:19:32.702178+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSDropDown clicked <SPO2_SIZE> 2x, index: 1|EDSLogging.qml:35|Main
+2025-03-31T16:19:35.880625+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSDropDown clicked <SPO2_PRI_HRSRC> AUTO, index: 0|EDSLogging.qml:35|Main
+2025-03-31T16:19:35.883084+00:00 GE0040973104B0 esp-qt[849]: <NFO>|AUTO selected (ECG) as new HR source, old source was (ECG)|HrPrimarySrcStrategy.cpp:142|GUI
+2025-03-31T16:19:37.842938+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSTabButton clicked <SPO2_MORE_SETTINGS> More Settings|EDSLogging.qml:35|Main
+2025-03-31T16:19:41.156838+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSRadioButton clicked <SPO2_RESPONSE_FAST> Fast|EDSLogging.qml:35|Main
+2025-03-31T16:19:43.082103+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSToggle toggled <SPO2_SHOW_SATSECONDS> text: Show SatSeconds, toggled: true|EDSLogging.qml:35|Main
+2025-03-31T16:19:43.140083+00:00 GE0040973104B0 esp-qt[849]: <NFO>|clear triggerForAlarmM (satSecondsPointsM=0)|SpO2SatSeconds.cpp:135|AlarmEng
+2025-03-31T16:19:45.695225+00:00 GE0040973104B0 esp-qt[849]: <USR>|ParameterWindow tapped <PARAM_WIN_SPO2_1> SpO2|EDSLogging.qml:35|Main
+2025-03-31T16:19:45.698591+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: close: Spo2  depth: 1  screenIdx: 0|MenuMgr.qml:440|Main
+2025-03-31T16:19:45.721663+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: open: Spo2 [SPO2_TAB,SPO2_SETUP]  depth: 1  screenIdx: 0|MenuMgr.qml:339|Main
+2025-03-31T16:19:47.738067+00:00 GE0040973104B0 esp-qt[849]: <USR>|ParameterWindow tapped <PARAM_WIN_ECG> ECG|EDSLogging.qml:35|Main
+2025-03-31T16:19:47.739043+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: close: Spo2  depth: 1  screenIdx: 0|MenuMgr.qml:440|Main
+2025-03-31T16:19:47.781660+00:00 GE0040973104B0 esp-qt[849]: <NFO>|qml: MenuMgr: open: Ecg [ECG_TAB,ECG_SETUP]  depth: 1  screenIdx: 0|MenuMgr.qml:339|Main
+2025-03-31T16:19:50.566103+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSTabButton clicked <ECG_ARRHYTHMIA> Arrhythmia|EDSLogging.qml:35|Main
+2025-03-31T16:19:52.036391+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSTabButton clicked <ECG_ARRHYTHMIA_VENTRICULAR_ALARMS> Ventricular Alarms|EDSLogging.qml:35|Main
+2025-03-31T16:19:54.185762+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSTabButton clicked <ECG_TAB> ECG|EDSLogging.qml:35|Main
+2025-03-31T16:19:55.460201+00:00 GE0040973104B0 esp-qt[849]: <USR>|EDSTabButton clicked <ECG_TAB> ECG|EDSLogging.qml:35|Main
+2025-03-31T16:22:09.955284+00:00 GE0040973104B0 systemd[1]: Started SSH Per-Connection Server (192.168.120.27:52048).
+2025-03-31T16:22:09.965697+00:00 GE0040973104B0 dropbear[23817]: Child connection from 192.168.120.27:52048
+2025-03-31T16:22:10.275864+00:00 GE0040973104B0 dropbear[23817]: Auth succeeded with blank password for 'root' from 192.168.120.27:52048
+2025-03-31T16:22:10.289571+00:00 GE0040973104B0 dropbear[23821]: lastlog_perform_login: Couldn't stat /var/log/lastlog: No such file or directory
+2025-03-31T16:22:10.290042+00:00 GE0040973104B0 dropbear[23821]: lastlog_openseek: /var/log/lastlog is not a file or directory!
+2025-03-31T16:22:12.608840+00:00 GE0040973104B0 dropbear[23817]: syslogin_perform_logout: logout(pts/0) returned an error: No such file or directory
+2025-03-31T16:22:12.609297+00:00 GE0040973104B0 dropbear[23817]: Exit (root) from <192.168.120.27:52048>: Disconnect received
+2025-03-31T16:22:12.611724+00:00 GE0040973104B0 systemd[1]: dropbear@2-192.168.121.68:22-192.168.120.27:52048.service: Deactivated successfully.
+2025-03-31T16:22:17.134867+00:00 GE0040973104B0 systemd[1]: Started SSH Per-Connection Server (192.168.120.27:52050).
+2025-03-31T16:22:17.149476+00:00 GE0040973104B0 dropbear[23829]: Child connection from 192.168.120.27:52050
+2025-03-31T16:22:17.468516+00:00 GE0040973104B0 dropbear[23829]: Auth succeeded with blank password for 'root' from 192.168.120.27:52050
